@@ -134,25 +134,25 @@ E --> P([Layout and Composition])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Articles
-| Title | Author | Description | Link |
-| --- | --- | --- | --- |
-| **What is UX Design?** | UX Planet | UX Design primarily focuses on understanding and improving the interaction users have with a tool or product. | [Read](https://uxplanet.org/what-is-ux-design-bb02fc45aba5) |
-| **What is user experience (UX) design?** | UsabilityHub | Learn all about UX design, and the skills you need to become a UX designer, in this comprehensive guide. | [Read](https://usabilityhub.com/blog/what-is-user-experience-design) |
-| **What is User Experience (UX) Design?** | Interaction Design Foundation| User experience (UX) design is the process design teams use to create products that provide meaningful and relevant experiences to users. | [Read](https://www.interaction-design.org/literature/topics/ux-design) |
+| Title | Author | Description | Link | MY PROGRESS | 
+| --- | --- | --- | --- | --- |
+| **What is UX Design?** | UX Planet | UX Design primarily focuses on understanding and improving the interaction users have with a tool or product. | [Read](https://uxplanet.org/what-is-ux-design-bb02fc45aba5) | Incomplete | 
+| **What is user experience (UX) design?** | UsabilityHub | Learn all about UX design, and the skills you need to become a UX designer, in this comprehensive guide. | [Read](https://usabilityhub.com/blog/what-is-user-experience-design) | Incomplete | 
+| **What is User Experience (UX) Design?** | Interaction Design Foundation| User experience (UX) design is the process design teams use to create products that provide meaningful and relevant experiences to users. | [Read](https://www.interaction-design.org/literature/topics/ux-design) | Incomplete | 
 | **An Introduction to User Experience Design** | Ben Ralph | The deceptively tricky challenge of designing for user behavior | [Read](https://medium.com/beakerandflint/an-introduction-user-experience-design-2a7f8167bf03)
-| **Laws of UX** | Laws of UX | Laws of UX is a collection of 100+ UX laws, principles, and patterns for designing better digital products. | [Read](https://lawsofux.com/) |
-| **UI, UX: Who Does What? A Designer’s Guide To The Tech Industry.** | Lo Min Ming | This article will help you understand the difference between UI and UX design, and how they work together to create a great user experience. | [Read](https://www.fastcompany.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry) |
-| **An Introduction to User Experience Design.**  | HackDesign Authors |You'll get an idea of how designers think, and how diverse the design disciplines are.  | [Reading List](https://hackdesign.org/lessons#user-experience) |
+| **Laws of UX** | Laws of UX | Laws of UX is a collection of 100+ UX laws, principles, and patterns for designing better digital products. | [Read](https://lawsofux.com/) | Incomplete | 
+| **UI, UX: Who Does What? A Designer’s Guide To The Tech Industry.** | Lo Min Ming | This article will help you understand the difference between UI and UX design, and how they work together to create a great user experience. | [Read](https://www.fastcompany.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry) | Incomplete | 
+| **An Introduction to User Experience Design.**  | HackDesign Authors |You'll get an idea of how designers think, and how diverse the design disciplines are.  | [Reading List](https://hackdesign.org/lessons#user-experience) | Incomplete | 
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Videos
-| Title | Author | Description | Link |
-| --- | --- | --- | --- |
-| **UX Crash Course - Getting Started in User Experience Design** | Jesse Showalter | User experience design (UX, UXD) is the process of enhancing user satisfaction with a product by improving the usability, accessibility, and pleasure provided in the interaction with the product. | [Watch](https://www.youtube.com/watch?v=_lyzy-vChh4) |
-| **What Is UX Design? - An Introduction (Full Guide For 2023)** | CareerFoundry | In this video, we give you a quick overview of the term UX Design, share some of the key concepts and ideas involved. | [Watch](https://www.youtube.com/watch?v=ziQEqGZB8GE) |
-| **The Laws of UX - 19 Psychological Design Principles** | Joseph | The Laws of UX is a collection of 100+ UX laws, principles, and patterns for designing better digital products. | [Watch](https://www.youtube.com/watch?v=fYs2Mdyasuc) |
-| **UX Design vs UI Design - What's The Difference? (2023)** | CareerFoundry | What’s the difference between UX and UI design? What will you be doing as a user experience designer, or a user interface designer? In this video, we delve into these two in-demand design roles, sharing key definitions, responsibilities, similarities and differences. | [Watch](https://www.youtube.com/watch?v=5CxXhyhT6Fc) |
+| Title | Author | Description | Link | MY PROGRESS |
+| --- | --- | --- | --- | --- |
+| **UX Crash Course - Getting Started in User Experience Design** | Jesse Showalter | User experience design (UX, UXD) is the process of enhancing user satisfaction with a product by improving the usability, accessibility, and pleasure provided in the interaction with the product. | [Watch](https://www.youtube.com/watch?v=_lyzy-vChh4) | Incomplete | 
+| **What Is UX Design? - An Introduction (Full Guide For 2023)** | CareerFoundry | In this video, we give you a quick overview of the term UX Design, share some of the key concepts and ideas involved. | [Watch](https://www.youtube.com/watch?v=ziQEqGZB8GE) | Incomplete | 
+| **The Laws of UX - 19 Psychological Design Principles** | Joseph | The Laws of UX is a collection of 100+ UX laws, principles, and patterns for designing better digital products. | [Watch](https://www.youtube.com/watch?v=fYs2Mdyasuc) | Incomplete | 
+| **UX Design vs UI Design - What's The Difference? (2023)** | CareerFoundry | What’s the difference between UX and UI design? What will you be doing as a user experience designer, or a user interface designer? In this video, we delve into these two in-demand design roles, sharing key definitions, responsibilities, similarities and differences. | [Watch](https://www.youtube.com/watch?v=5CxXhyhT6Fc) | Incomplete | 
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
